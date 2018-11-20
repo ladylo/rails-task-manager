@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+body {
+  padding: 20px;
+}
+
+.form-group {
+  margin: 20px;
+}
+
+form .btn {
+  margin: 20px;
+}
+
+h2 .far {
+  font-size: 20px;
+}
